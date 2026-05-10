@@ -1,0 +1,5 @@
+.env
+*.Identifier
+*.pyc
+.claude
+.venv
